@@ -1,0 +1,135 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pennsylvania Avenue Northwest",
+               "short_name" : "Pennsylvania Ave NW",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Northwest Washington",
+               "short_name" : "Northwest Washington",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20500",
+               "short_name" : "20500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1600 Pennsylvania Ave NW, Washington, DC 20500, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.8979044,
+                  "lng" : -77.0355124
+               },
+               "southwest" : {
+                  "lat" : 38.8973144,
+                  "lng" : -77.03795749999999
+               }
+            },
+            "location" : {
+               "lat" : 38.8976633,
+               "lng" : -77.03657389999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8989583802915,
+                  "lng" : -77.03538596970849
+               },
+               "southwest" : {
+                  "lat" : 38.8962604197085,
+                  "lng" : -77.03808393029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJGVtI4by3t4kRr51d_Qm_x58",
+         "types" : [ "establishment", "point_of_interest", "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "1600",
+               "short_name" : "1600",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Pennsylvania Avenue Southeast",
+               "short_name" : "Pennsylvania Ave SE",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hill East",
+               "short_name" : "Hill East",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "District of Columbia",
+               "short_name" : "DC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20003",
+               "short_name" : "20003",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "1600 Pennsylvania Ave SE, Washington, DC 20003, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.8791981,
+               "lng" : -76.9818437
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8805470802915,
+                  "lng" : -76.9804947197085
+               },
+               "southwest" : {
+                  "lat" : 38.8778491197085,
+                  "lng" : -76.98319268029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJjf41p7S5t4kRccykrHctqME",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "status" : "OK"
+}
