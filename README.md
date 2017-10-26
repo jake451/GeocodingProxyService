@@ -17,7 +17,7 @@ Google Geocoding API https://developers.google.com/maps/documentation/geocoding/
 Service credentials must be first retrieved by registering with the above services.
 These credentials are then placed in a configuration file used when running the application.
 
-And example config file can be found at config.ini.
+An example config file can be found at config.ini.
 
 Once configured, an application server can be started with
   * python -m geocodex myconfig.ini
