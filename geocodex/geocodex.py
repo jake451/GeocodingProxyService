@@ -17,8 +17,8 @@ class Geocode:
 
     Attributes:
         address (str): string representation of address
-        lat (str): Latitude
-        ln (:obj:`int`, optional): Longitude
+        lat (float): Latitude
+        lng (float): Longitude
   """
 
   def __init__(self, address, lat, lng):
